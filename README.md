@@ -19,7 +19,7 @@ Bu projede yer alan Jupyter Notebook dosyaları ve içerikleri aşağıda listel
 *  **`polynomial_regression_maas_tahmini.ipynb`**: Polynomial Regression yöntemi kullanılarak maaş tahmini yapılması, doğrusal olmayan ilişkilerin modellenmesi ve regresyon performansının görselleştirmeler ile analiz edilmesi.
 *  **`logistic_regression_banka_pazarlama.ipynb`**: Lojistik Regresyon (Logistic Regression) algoritması kullanılarak banka pazarlama veri seti üzerinde müşteri dönüşüm tahmini yapılması ve model performansının analiz edilmesi.
 *  **`kedi_kopek_detayli_anlatim(1).ipynb`**: Derin öğrenme ve görüntü işleme teknikleri kullanılarak kedi ve köpek sınıflandırma probleminin detaylı anlatımı ve model geliştirme süreçlerinin incelenmesi.
-* **`simge_rnn.ipynb`**: Recurrent Neural Network (RNN) yapılarının temel mantığı, sıralı veri analizi ve derin öğrenme uygulamalarının incelenmesi.
+* **`simple_rnn.ipynb`**: Recurrent Neural Network (RNN) yapılarının temel mantığı, sıralı veri analizi ve derin öğrenme uygulamalarının incelenmesi.
 
 temel_ann.ipynb: Artificial Neural Network (ANN) yapılarının temel çalışma prensipleri, yapay sinir ağı modeli oluşturma ve sınıflandırma uygulamaları.
 
