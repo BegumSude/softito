@@ -13,6 +13,7 @@ Bu projede yer alan Jupyter Notebook dosyaları ve içerikleri aşağıda listel
 *   **`python_class_sorular.ipynb`**: Nesne Yönelimli Programlama (OOP) mantığı, sınıflar (classes), nesneler (objects), metotlar ve kalıtım konularına yönelik uygulamalı soru ve çözümler.
 *   **`unsupervised_algorithms_wholesale.ipynb`**: Gözetimsiz Öğrenme (Unsupervised Learning) algoritmaları (K-Means, Hiyerarşik Kümeleme, PCA vb.) kullanılarak Toptan Müşteri (Wholesale Customers) veri setinin analizi.
 *   **`Airbnb_NYC_Analysis_Using_EDA_Techniques.ipynb`**: New York Airbnb veri seti üzerinde Keşifsel Veri Analizi (EDA) teknikleri kullanılarak fiyat, lokasyon, oda tipi, müsaitlik ve kullanıcı yorumları gibi değişkenlerin analiz edilmesi ve veri görselleştirmeleri ile içgörü elde edilmesi.
+*   **`decision_tree_heart_disease.ipynb`**: Karar Ağacı (Decision Tree) algoritması kullanılarak kalp hastalığı veri seti üzerinde sınıflandırma analizi yapılması, önemli özelliklerin incelenmesi ve model performansının değerlendirilmesi.
 
 
 ## Başlangıç
