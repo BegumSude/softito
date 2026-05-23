@@ -17,6 +17,7 @@ Bu projede yer alan Jupyter Notebook dosyaları ve içerikleri aşağıda listel
 *  **`regresyon_analizi_ev_fiyatlari.ipynb`**: Regresyon analizi yöntemleri kullanılarak ev fiyatları veri seti üzerinde fiyat tahmini yapılması, değişkenler arasındaki ilişkilerin incelenmesi ve model performansının değerlendirilmesi.
 *  **`face_detection.ipynb`**: OpenCV ve görüntü işleme teknikleri kullanılarak görüntüler üzerinde yüz tespiti (Face Detection) işlemlerinin gerçekleştirilmesi ve gerçek zamanlı analiz uygulamaları geliştirilmesi.
 *  **`polynomial_regression_maas_tahmini.ipynb`**: Polynomial Regression yöntemi kullanılarak maaş tahmini yapılması, doğrusal olmayan ilişkilerin modellenmesi ve regresyon performansının görselleştirmeler ile analiz edilmesi.
+*  **`logistic_regression_banka_pazarlama.ipynb`**: Lojistik Regresyon (Logistic Regression) algoritması kullanılarak banka pazarlama veri seti üzerinde müşteri dönüşüm tahmini yapılması ve model performansının analiz edilmesi.
 
 
 ## Başlangıç
