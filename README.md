@@ -1,6 +1,6 @@
-# Softito Python Başlangıç ve Temel Uygulamaları
+# Softito Uygulamaları
 
-Bu depo (repository), Softito kapsamında gerçekleştirilen temel Python programlama dersleri, başlangıç seviyesi uygulamalar, sınıflar (classes) ile ilgili pratik sorular ve temel seviye değerlendirme quizlerini içermektedir.
+Bu depo (repository), Softito kapsamında gerçekleştirilen temel Python programlama dersleri, başlangıç seviyesi uygulamalar, ML, DL, NLP ile ilgili pratik sorular ve temel seviye değerlendirme quizlerini içermektedir.
 
 ## Proje İçeriği
 
@@ -12,6 +12,7 @@ Bu projede yer alan Jupyter Notebook dosyaları ve içerikleri aşağıda listel
 *   **`python_temel_quiz.ipynb`**: Temel Python konularını pekiştirmek amacıyla hazırlanmış pratik test ve sorular.
 *   **`python_class_sorular.ipynb`**: Nesne Yönelimli Programlama (OOP) mantığı, sınıflar (classes), nesneler (objects), metotlar ve kalıtım konularına yönelik uygulamalı soru ve çözümler.
 *   **`unsupervised_algorithms_wholesale.ipynb`**: Gözetimsiz Öğrenme (Unsupervised Learning) algoritmaları (K-Means, Hiyerarşik Kümeleme, PCA vb.) kullanılarak Toptan Müşteri (Wholesale Customers) veri setinin analizi.
+*   **`Airbnb_NYC_Analysis_Using_EDA_Techniques.ipynb`**: New York Airbnb veri seti üzerinde Keşifsel Veri Analizi (EDA) teknikleri kullanılarak fiyat, lokasyon, oda tipi, müsaitlik ve kullanıcı yorumları gibi değişkenlerin analiz edilmesi ve veri görselleştirmeleri ile içgörü elde edilmesi.
 
 
 ## Başlangıç
