@@ -24,6 +24,7 @@ Bu projede yer alan Jupyter Notebook dosyaları ve içerikleri aşağıda listel
 * **`derin_ogrenme_basit.ipynb`**: Derin öğrenme modellerinin temel mantığını açıklayan başlangıç seviyesi uygulamalar ve örnek çalışmalar.
 * **`derin_ogrenmeye_giris.ipynb`**: Derin öğrenmeye giriş kapsamında yapay sinir ağları, temel model yapıları ve eğitim süreçlerinin anlatıldığı notebook çalışması.
 * **`knn_naivebayes_iris_classification.ipynb`**: K-Nearest Neighbors (KNN) ve Naive Bayes algoritmaları kullanılarak Iris veri seti üzerinde sınıflandırma analizi ve model performans karşılaştırması yapılması.
+* **`adaboost_xgboost_karsilastirma.ipynb`**: AdaBoost ve XGBoost algoritmalarının karşılaştırmalı olarak incelenmesi, performans analizleri ve makine öğrenmesi sınıflandırma uygulamaları.
 
 ## Başlangıç
 
