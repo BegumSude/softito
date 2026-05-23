@@ -11,6 +11,8 @@ Bu projede yer alan Jupyter Notebook dosyaları ve içerikleri aşağıda listel
 *   **`temel_python_2.ipynb`**: Listeler, demetler (tuples), sözlükler (dictionaries) ve kümeler (sets) gibi veri yapıları.
 *   **`python_temel_quiz.ipynb`**: Temel Python konularını pekiştirmek amacıyla hazırlanmış pratik test ve sorular.
 *   **`python_class_sorular.ipynb`**: Nesne Yönelimli Programlama (OOP) mantığı, sınıflar (classes), nesneler (objects), metotlar ve kalıtım konularına yönelik uygulamalı soru ve çözümler.
+*   **`unsupervised_algorithms_wholesale.ipynb`**: Gözetimsiz Öğrenme (Unsupervised Learning) algoritmaları (K-Means, Hiyerarşik Kümeleme, PCA vb.) kullanılarak Toptan Müşteri (Wholesale Customers) veri setinin analizi.
+
 
 ## Başlangıç
 
