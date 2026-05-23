@@ -20,8 +20,9 @@ Bu projede yer alan Jupyter Notebook dosyaları ve içerikleri aşağıda listel
 *  **`logistic_regression_banka_pazarlama.ipynb`**: Lojistik Regresyon (Logistic Regression) algoritması kullanılarak banka pazarlama veri seti üzerinde müşteri dönüşüm tahmini yapılması ve model performansının analiz edilmesi.
 *  **`kedi_kopek_detayli_anlatim(1).ipynb`**: Derin öğrenme ve görüntü işleme teknikleri kullanılarak kedi ve köpek sınıflandırma probleminin detaylı anlatımı ve model geliştirme süreçlerinin incelenmesi.
 * **`simple_rnn.ipynb`**: Recurrent Neural Network (RNN) yapılarının temel mantığı, sıralı veri analizi ve derin öğrenme uygulamalarının incelenmesi.
-
-temel_ann.ipynb: Artificial Neural Network (ANN) yapılarının temel çalışma prensipleri, yapay sinir ağı modeli oluşturma ve sınıflandırma uygulamaları.
+* **`temel_ann.ipynb`**: Artificial Neural Network (ANN) yapılarının temel çalışma prensipleri, yapay sinir ağı modeli oluşturma ve sınıflandırma uygulamaları.
+* **`derin_ogrenme_basit.ipynb`**: Derin öğrenme modellerinin temel mantığını açıklayan başlangıç seviyesi uygulamalar ve örnek çalışmalar.
+* **`derin_ogrenmeye_giris.ipynb`**: Derin öğrenmeye giriş kapsamında yapay sinir ağları, temel model yapıları ve eğitim süreçlerinin anlatıldığı notebook çalışması.
 
 ## Başlangıç
 
