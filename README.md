@@ -15,6 +15,7 @@ Bu projede yer alan Jupyter Notebook dosyaları ve içerikleri aşağıda listel
 *   **`Airbnb_NYC_Analysis_Using_EDA_Techniques.ipynb`**: New York Airbnb veri seti üzerinde Keşifsel Veri Analizi (EDA) teknikleri kullanılarak fiyat, lokasyon, oda tipi, müsaitlik ve kullanıcı yorumları gibi değişkenlerin analiz edilmesi ve veri görselleştirmeleri ile içgörü elde edilmesi.
 *   **`decision_tree_heart_disease.ipynb`**: Karar Ağacı (Decision Tree) algoritması kullanılarak kalp hastalığı veri seti üzerinde sınıflandırma analizi yapılması, önemli özelliklerin incelenmesi ve model performansının değerlendirilmesi.
 *  **`regresyon_analizi_ev_fiyatlari.ipynb`**: Regresyon analizi yöntemleri kullanılarak ev fiyatları veri seti üzerinde fiyat tahmini yapılması, değişkenler arasındaki ilişkilerin incelenmesi ve model performansının değerlendirilmesi.
+*  **`face_detection.ipynb`**: OpenCV ve görüntü işleme teknikleri kullanılarak görüntüler üzerinde yüz tespiti (Face Detection) işlemlerinin gerçekleştirilmesi ve gerçek zamanlı analiz uygulamaları geliştirilmesi.
 
 
 ## Başlangıç
